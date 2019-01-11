@@ -1,1 +1,3 @@
 rootProject.name = 'gradle-mvc4'
+
+include 'demo01-thymeleaf','demo02-thymeleaf-mvc'
