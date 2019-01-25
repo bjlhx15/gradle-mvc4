@@ -1,4 +1,4 @@
-package com.github.bjlhx15.gradle.jsr303;
+package com.github.bjlhx15.gradle.jsr303.validator;
 
 import javax.validation.Constraint;
 import javax.validation.Payload;

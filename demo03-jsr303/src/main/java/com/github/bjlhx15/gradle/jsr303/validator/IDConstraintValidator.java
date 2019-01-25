@@ -1,4 +1,4 @@
-package com.github.bjlhx15.gradle.jsr303;
+package com.github.bjlhx15.gradle.jsr303.validator;
 
 
 import org.apache.commons.lang3.StringUtils;
